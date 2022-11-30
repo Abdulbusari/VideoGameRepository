@@ -1,0 +1,5 @@
+D:\VideogameRepo\VideoGameRepository\obj\Debug\net6.0\VideoGameRepository.csproj.AssemblyReference.cache
+D:\VideogameRepo\VideoGameRepository\obj\Debug\net6.0\VideoGameRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\VideogameRepo\VideoGameRepository\obj\Debug\net6.0\VideoGameRepository.AssemblyInfoInputs.cache
+D:\VideogameRepo\VideoGameRepository\obj\Debug\net6.0\VideoGameRepository.AssemblyInfo.cs
+D:\VideogameRepo\VideoGameRepository\obj\Debug\net6.0\VideoGameRepository.csproj.CoreCompileInputs.cache
